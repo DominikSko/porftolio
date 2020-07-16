@@ -4,7 +4,7 @@
     "occupation":"I finished an intense 5-month Kodilla Front End Bootcamp",
     "description":" Currently at the stage of rearranging towards Front End programmer. I also have 7 years of experience in the HR industry, sale of services and customer service. I speak English fluently and I know German at level B1",
     "image":"profilepic.jpg",
-    "bio":"I finished an intense 5-month Kodilla Front End programming course. Training and projects in fallowing technologies: HTML, CSS, RWD, Bootstrap, Git, JavaScript, AJAX, API, React, Redux.",
+    "bio":"I finished an intense 5-month Kodilla Front End programming course. Training and projects in fallowing technologies: HTML, CSS, RWD, Git, JavaScript, AJAX, API, React, Webpack, Redux. I invite you to familiarize yourself with my projects and also my resume can be downloaded by button below :) ",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "dominik.skorupski1@gmail.com",
     "phone": "+48 509 354 615",
@@ -15,7 +15,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://easyupload.io/wayytm",
     "social":[
       {
         "name":"linkedin",
@@ -49,7 +49,7 @@
         "company":"Kodilla",
         "title":"Student",
         "years":"02.2020 - 07.2020",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"5-month Front End programming course. Projects in fallowing technologies: HTML, CSS, RWD, Git, JavaScript, AJAX, API, React, Webpack, Redux."
       },
       {
         "company":"LG Chem Wrocław Energy",
@@ -98,6 +98,10 @@
       {
         "name":"German language",
         "level":"60%"
+      },
+      {
+        "name":"Customer Service, Sale of services",
+        "level":"90%"
       }
     ]
   },
@@ -123,9 +127,9 @@
       },
       {
         "title":"Blog JavaScript",
-        "category":"Blog in vanilla Javascript",
+        "category":"Blog written in Javascript",
         "image":"javascript-blog.jpg",
-        "url":"https://floating-bastion-69622.herokuapp.com/"
+        "url":"https://lit-inlet-16837.herokuapp.com/"
       }
     ]
   },
