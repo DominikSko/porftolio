@@ -23,11 +23,6 @@
         "className":"fa fa-linkedin"
       },
       {
-        "name":"my portfolio",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
         "url":"http://github.com/DominikSko",
         "className":"fa fa-github"
