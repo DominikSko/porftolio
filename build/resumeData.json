@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name":"Dominik Skorupski",
+    "occupation":"I finished an intense 5-month Kodilla Front End Bootcamp",
+    "description":" Currently at the stage of rearranging towards Front End programmer. I also have 7 years of experience in the HR industry, sale of services and customer service. I speak English fluently and I know German at level B1",
+    "image":"profilepic.jpg",
+    "bio":"I finished an intense 5-month Kodilla Front End programming course. Training and projects in fallowing technologies: HTML, CSS, RWD, Git, JavaScript, AJAX, API, React, Webpack, Redux. I invite you to familiarize yourself with my projects and also my resume can be downloaded by button below :) ",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "dominik.skorupski1@gmail.com",
+    "phone": "+48 509 354 615",
+    "address":{
+      "street":"Przyjaźni 53-030",
+      "city":"Wrocław, Poland",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://easyupload.io/wayytm",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/dominik-skorupski-0561b996/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"my portfolio",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/DominikSko",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":" ",
+    "education":[
+      {
+        "school":"Wrocław University of Economics",
+        "degree":"Management",
+        "graduated":"09.2011 - 06.2014",
+        "description":" "
+      }
+    ],
+    "work":[
+      {
+        "company":"Kodilla",
+        "title":"Student",
+        "years":"02.2020 - 07.2020",
+        "description":"5-month Front End programming course. Projects in fallowing technologies: HTML, CSS, RWD, Git, JavaScript, AJAX, API, React, Webpack, Redux."
+      },
+      {
+        "company":"LG Chem Wrocław Energy",
+        "title":"Senior HR Specialist",
+        "years":"06.2019 - 04.2020",
+        "description":""
+      },
+      {
+        "company":"E-Work Polska, work agency",
+        "title":"Area Manager",
+        "years":"04.2017 - 05.2019",
+        "description":""
+      },
+      {
+        "company":"Camp America, USA, Maine",
+        "title":"Table Tennis Counsellor",
+        "years":"Summer work, 2008, 2009, 2010",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git/Webpack/Developer tools",
+        "level":"70%"
+      },
+      {
+        "name":"HTML",
+        "level":"85%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"React",
+        "level":"60%"
+      },
+      {
+        "name":"English language",
+        "level":"95%"
+      },
+      {
+        "name":"German language",
+        "level":"60%"
+      },
+      {
+        "name":"Customer Service, Sale of services",
+        "level":"90%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Travel Agency",
+        "category":"website with many functionalities",
+        "image":"travel-agency.jpg",
+        "url":"https://lit-caverns-24489.herokuapp.com/"
+      },
+      {
+        "title":"Pizzeria",
+        "category":"responsive web application",
+        "image":"project-pizzeria.jpg",
+        "url":"https://obscure-garden-70359.herokuapp.com/#/main-site"
+      },
+      {
+        "title":"Project React",
+        "category":"Simple React App for notes",
+        "image":"project-react.jpg",
+        "url":"https://floating-bastion-69622.herokuapp.com/"
+      },
+      {
+        "title":"Blog JavaScript",
+        "category":"Blog written in Javascript",
+        "image":"javascript-blog.jpg",
+        "url":"https://lit-inlet-16837.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
