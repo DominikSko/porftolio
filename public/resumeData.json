@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Dominik Skorupski",
-    "occupation":"I finished an intense 5-month Kodilla Front End Bootcamp",
-    "description":" Currently at the stage of rearranging towards Front End programmer. I also have 7 years of experience in the HR industry, sale of services and customer service. I speak English fluently and I know German at level B1",
+    "occupation":"I have completed Kodilla 5-month intensive Front End bootcamp and JavaScript/React Przeprogramowani.pl course",
+    "description":" Currently at the stage of rearranging towards Front End programmer working in IT Support with German language. I also have 7 years of experience in the HR industry, sale of services and customer service. I speak English fluently and I know German at level B1",
     "image":"profilepic.jpg",
-    "bio":"I finished an intense 5-month Kodilla Front End programming course. Training and projects in following technologies: HTML, CSS, RWD, Git, JavaScript, AJAX, API, React, Webpack, Redux. I invite you to check my projects in works section and also my resume can be downloaded by button below :) ",
+    "bio":"I finished an intense 5-month Kodilla Front End programming course. Training and projects in following technologies: HTML, CSS, RWD, Git, JavaScript, AJAX, API, React, Webpack, Redux. I invite you to check my projects in works section :) (projects might load 10 seconds) ",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "dominik.skorupski1@gmail.com",
     "phone": "+48 509 354 615",
@@ -15,7 +15,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://easyupload.io/qy75ai",
+    "resumedownload":"https://easyupload.io/8l7bku",
     "social":[
       {
         "name":"linkedin",
@@ -33,6 +33,18 @@
     "skillmessage":" ",
     "education":[
       {
+        "school":"Przeprogramowani.pl",
+        "degree":"JS/React",
+        "graduated":"07.2020 - present",
+        "description":"JavaScript, web browsers environments, JS frameworks "
+      },
+      {
+        "school":"Kodilla Programming School",
+        "degree":"Front end",
+        "graduated":"02.2020 - 07.2020",
+        "description":"HTML, CSS, RWD, Bootstrap, Git, JavaScript, AJAX, API, React, Redux, React Router "
+      },
+      {
         "school":"Wrocław University of Economics",
         "degree":"Management",
         "graduated":"09.2011 - 06.2014",
@@ -41,10 +53,10 @@
     ],
     "work":[
       {
-        "company":"Kodilla",
-        "title":"Student",
-        "years":"02.2020 - 07.2020",
-        "description":"5-month Front End programming course. Projects in fallowing technologies: HTML, CSS, RWD, Git, JavaScript, AJAX, API, React, Webpack, Redux."
+        "company":"PM Team",
+        "title":"IT Support with German and English",
+        "years":"07.2020 - present",
+        "description":"Installing and configuring hardware and software, monitoring networks, technical support, solving problems "
       },
       {
         "company":"LG Chem Wrocław Energy",
@@ -68,14 +80,10 @@
     "skills":[
       {
         "name":"Git/Webpack/Developer tools",
-        "level":"70%"
+        "level":"80%"
       },
       {
-        "name":"HTML",
-        "level":"85%"
-      },
-      {
-        "name":"CSS",
+        "name":"HTML/CSS",
         "level":"80%"
       },
       {
@@ -84,6 +92,10 @@
       },
       {
         "name":"React",
+        "level":"70%"
+      },
+      {
+        "name":"TypeScript, Redux, Hooks, API",
         "level":"60%"
       },
       {
@@ -92,7 +104,7 @@
       },
       {
         "name":"German language",
-        "level":"60%"
+        "level":"70%"
       },
       {
         "name":"Customer Service, Sale of services",
