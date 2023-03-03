@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Dominik Skorupski",
-    "occupation":"I have completed Kodilla 5-month intensive Front End bootcamp and JavaScript/React Przeprogramowani.pl course",
-    "description":" Currently working as Front-end Developer and before worked in IT Support using German and English. I also have 7 years of experience in the HR industry, sale of services and customer service. I speak English fluently and I know German at level B1",
+    "occupation":"Front-end developer with 3 years of commercial experience",
+    "description":"I work with technologies: JavaScript+TypeScript, React+Redux, Angular+RxJs and many other. I speak English fluently and I know German at B1. I also worked in HR where i learned soft skills and customer service",
     "image":"profilepic.jpg",
-    "bio":"I finished an intense 5-month Kodilla Front End programming course. Training and projects in following technologies: HTML/CSS, Git/DevTools, JavaScript, AJAX/API, React/Vue . I invite you to check my projects in works section :) (projects might load 10 seconds) ",
+    "bio":"Before commercial experience I finished an intense 6-month Kodilla Front End programming course and also worked in HR industry for 5years. Training and projects in following technologies: HTML/CSS, Git/DevTools, JavaScript, AJAX/API, React/Vue . I invite you to check my projects in works section :) (projects might load 10 seconds) ",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "dominik.skorupski1@gmail.com",
     "phone": "+48 509 354 615",
@@ -53,6 +53,18 @@
     ],
     "work":[
       {
+        "company":"Infor",
+        "title":"Front-end developer",
+        "years":"03.2022 - present",
+        "description":"Web development using technologies: TypeScript, JavaScript, Angular and React"
+      },
+      {
+        "company":"Capgemini",
+        "title":"Junior Front-end developer",
+        "years":"12.2020 - 02.2022",
+        "description":"Javascript and React + Typescript development. 4+ diffrent web applications. German and English work environment"
+      },
+      {
         "company":"Data Courage",
         "title":"Entry Level Front-end developer",
         "years":"10.2020 - present",
@@ -85,24 +97,24 @@
     ],
     "skills":[
       {
+        "name":"JavaScript+TypeScript",
+        "level":"80%"
+      },
+      {
+        "name":"React + Redux + many other libraries",
+        "level":"90%"
+      },
+      {
+        "name":"Angular + RxJs",
+        "level":"80%"
+      },
+      {
         "name":"Git/Webpack/Developer tools",
+        "level":"90%"
+      },
+      {
+        "name":"CSS+SCSS/UX+UI",
         "level":"80%"
-      },
-      {
-        "name":"HTML/CSS",
-        "level":"80%"
-      },
-      {
-        "name":"JavaScript",
-        "level":"80%"
-      },
-      {
-        "name":"React",
-        "level":"70%"
-      },
-      {
-        "name":"Vue",
-        "level":"60%"
       },
       {
         "name":"English language",
@@ -114,7 +126,7 @@
       },
       {
         "name":"Customer Service, Sale of services",
-        "level":"90%"
+        "level":"80%"
       }
     ]
   },
