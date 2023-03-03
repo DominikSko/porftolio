@@ -135,26 +135,22 @@
       {
         "title":"Travel Agency",
         "category":"website with many functionalities",
-        "image":"travel-agency.jpg",
-        "url":"https://lit-caverns-24489.herokuapp.com/"
+        "image":"travel-agency.jpg"
       },
       {
         "title":"Pizzeria",
         "category":"responsive web application",
-        "image":"project-pizzeria.jpg",
-        "url":"https://obscure-garden-70359.herokuapp.com/#/main-site"
+        "image":"project-pizzeria.jpg"
       },
       {
         "title":"Project React",
         "category":"Simple React App for notes",
-        "image":"project-react.jpg",
-        "url":"https://floating-bastion-69622.herokuapp.com/"
+        "image":"project-react.jpg"
       },
       {
         "title":"Blog JavaScript",
         "category":"Blog written in Javascript",
-        "image":"javascript-blog.jpg",
-        "url":"https://lit-inlet-16837.herokuapp.com/"
+        "image":"javascript-blog.jpg"
       }
     ]
   },
