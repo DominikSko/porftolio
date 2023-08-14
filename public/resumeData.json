@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Dominik Skorupski",
-    "occupation":"Front-end developer with 3 years of commercial experience",
+    "occupation":"Front-end developer with 3+ years of commercial experience",
     "description":"I work with technologies: JavaScript+TypeScript, React+Redux, Angular+RxJs and many other. I speak English fluently and I know German at B1. I also worked in HR where i learned soft skills and customer service",
     "image":"profilepic.jpg",
-    "bio":"Before commercial experience I finished an intense 6-month Kodilla Front End programming course and also worked in HR industry for 5years. Training and projects in following technologies: HTML/CSS, Git/DevTools, JavaScript, AJAX/API, React/Vue . I invite you to check my projects in works section :) (projects might load 10 seconds) ",
+    "bio":"Before programming commercial experience I finished an intense 6-month Kodilla Front End programming course and also worked in HR industry for 5 years. Training and projects in following technologies: HTML/CSS, Git/DevTools, JavaScript/Typescript, React/Angular . I invite you to check my Fullstack project at bottom of the side with techstack: React/Redux/Nodejs/Express/Mongo/GoogleAuth/Send Emails/JavaScript and MANY more :) ",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "dominik.skorupski1@gmail.com",
     "phone": "+48 509 354 615",
@@ -14,7 +14,6 @@
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
     "resumedownload":"https://easyupload.io/aec8o0",
     "social":[
       {
@@ -53,15 +52,15 @@
     ],
     "work":[
       {
-        "company":"Infor",
+        "company":"Codelab Software",
         "title":"Front-end developer",
-        "years":"03.2022 - present",
-        "description":"Web development using technologies: TypeScript, JavaScript, Angular and React"
+        "years":"04.2022 - present",
+        "description":"Web development using technologies: TypeScript, JavaScript, Angular and React. German and English work environment"
       },
       {
         "company":"Capgemini",
         "title":"Junior Front-end developer",
-        "years":"12.2020 - 02.2022",
+        "years":"12.2020 - 03.2022",
         "description":"Javascript and React + Typescript development. 4+ diffrent web applications. German and English work environment"
       },
       {
@@ -109,12 +108,16 @@
         "level":"80%"
       },
       {
-        "name":"Git/Webpack/Developer tools",
+        "name":"Node.js + Express / Backend + Databases",
+        "level":"60%"
+      },
+      {
+        "name":"Git/Webpack/Jira/Developer tools",
         "level":"90%"
       },
       {
-        "name":"CSS+SCSS/UX+UI",
-        "level":"80%"
+        "name":"CSS+SCSS/UX+UI/ UI Libraries",
+        "level":"90%"
       },
       {
         "name":"English language",
@@ -133,6 +136,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Fullstack React/Redux/Nodejs/Express/Mongo/GoogleAuth/Send Emails to users/JavaScript",
+        "category":"Fullstack App with backend frontend Google auth and mongodb database",
+        "image":"Fullstack.jpg",
+        "url":"https://silly-bag-production.up.railway.app/"
+      },
+      {
         "title":"Travel Agency",
         "category":"website with many functionalities",
         "image":"travel-agency.jpg"
@@ -141,11 +150,6 @@
         "title":"Pizzeria",
         "category":"responsive web application",
         "image":"project-pizzeria.jpg"
-      },
-      {
-        "title":"Project React",
-        "category":"Simple React App for notes",
-        "image":"project-react.jpg"
       },
       {
         "title":"Blog JavaScript",
