@@ -1,1 +1,1 @@
-https://portfolio-skorupski.herokuapp.com/
+https://portfoliodominikskorupski.onrender.com/
