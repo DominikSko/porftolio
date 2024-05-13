@@ -136,8 +136,14 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Fullstack React/Redux/Nodejs/Express/Mongo/GoogleAuth/Send Emails to users/JavaScript",
-        "category":"Fullstack App with backend frontend Google auth and mongodb database",
+        "title":"Fullstack Next.JS, Tailwind, ecommerce, company free website",
+        "category":"Fullstack Next.JS, Tailwind, ecommerce, company free website",
+        "image":"ecommerce.jpg",
+        "url":"https://nextjsecommerce-9xad.onrender.com/"
+      },
+      {
+        "title":"Fullstack React, Redux, Nodejs, Express, Mongo, GoogleAuth, Stripe, Webhooks !",
+        "category":"Fullstack React, Redux, Nodejs, Express, Mongo, GoogleAuth, Stripe, Webhooks !",
         "image":"Fullstack.jpg",
         "url":"https://silly-bag-production.up.railway.app/"
       },
@@ -150,11 +156,6 @@
         "title":"Pizzeria",
         "category":"responsive web application",
         "image":"project-pizzeria.jpg"
-      },
-      {
-        "title":"Blog JavaScript",
-        "category":"Blog written in Javascript",
-        "image":"javascript-blog.jpg"
       }
     ]
   },
