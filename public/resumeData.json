@@ -1,8 +1,8 @@
 {
   "main": {
     "name":"Dominik Skorupski",
-    "occupation":"Front-end developer with 3+ years of commercial experience",
-    "description":"I work with technologies: JavaScript+TypeScript, React+Redux, Angular+RxJs and many other. I speak English fluently and I know German at B1. I also worked in HR where i learned soft skills and customer service",
+    "occupation":"Front-end developer with 4+ years commercial experience",
+    "description":"I work with technologies: JavaScript+TypeScript, React+Redux/Next.Js/Node.Js, Angular + RxJs and many other. I speak English fluently and I know German at B1+. I also worked in HR where I learned soft skills and customer service",
     "image":"profilepic.jpg",
     "bio":"Before programming commercial experience I finished an intense 6-month Kodilla Front End programming course and also worked in HR industry for 5 years. Training and projects in following technologies: HTML/CSS, Git/DevTools, JavaScript/Typescript, React/Angular . I invite you to check my Fullstack project at bottom of the side with techstack: React/Redux/Nodejs/Express/Mongo/GoogleAuth/Send Emails/JavaScript and MANY more :) ",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -97,10 +97,10 @@
     "skills":[
       {
         "name":"JavaScript+TypeScript",
-        "level":"80%"
+        "level":"90%"
       },
       {
-        "name":"React + Redux + many other libraries",
+        "name":"React + Redux + NextJs + many other libraries",
         "level":"90%"
       },
       {
